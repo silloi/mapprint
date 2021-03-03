@@ -1,15 +1,8 @@
 /*!
-  * vue-router v3.1.5
-  * (c) 2020 Evan You
+  * vue-router v3.5.1
+  * (c) 2021 Evan You
   * @license MIT
   */
-
-/*!
- * Determine if an object is a Buffer
- *
- * @author   Feross Aboukhadijeh <https://feross.org>
- * @license  MIT
- */
 
 /*!
  * JavaScript Cookie v2.2.1
@@ -20,8 +13,8 @@
  */
 
 /*!
- * Vue.js v2.6.11
- * (c) 2014-2019 Evan You
+ * Vue.js v2.6.12
+ * (c) 2014-2020 Evan You
  * Released under the MIT License.
  */
 
@@ -32,11 +25,6 @@
  * MIT Licensed
  */
 
-/*!
- * viewport-units-buggyfill v0.6.2
- * @web: https://github.com/rodneyrehm/viewport-units-buggyfill/
- * @author: Rodney Rehm - http://rodneyrehm.de/en/
- */
 
 /*!
  * vue-client-only v2.0.0
@@ -45,7 +33,7 @@
  */
 
 /*!
- * vue-i18n v8.22.4 
+ * vue-i18n v8.23.0 
  * (c) 2021 kazuya kawaguchi
  * Released under the MIT License.
  */
@@ -56,14 +44,21 @@
  * Released under the MIT License.
  */
 
+
 /*!
- * vue-qrcode v1.0.1
+ * viewport-units-buggyfill v0.6.2
+ * @web: https://github.com/rodneyrehm/viewport-units-buggyfill/
+ * @author: Rodney Rehm - http://rodneyrehm.de/en/
+ */
+
+/*!
+ * vue-qrcode v1.0.2
  * https://fengyuanchen.github.io/vue-qrcode
  *
  * Copyright 2018-present Chen Fengyuan
  * Released under the MIT license
  *
- * Date: 2019-06-29T08:20:19.827Z
+ * Date: 2020-01-18T06:04:33.222Z
  */
 
 /*! MIT License © Sindre Sorhus */
